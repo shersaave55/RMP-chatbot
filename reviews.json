@@ -1,0 +1,124 @@
+{
+"reviews": [
+    {
+        "professor": "Dr. Smith",
+        "review": "Great professor, explains complex concepts clearly.",
+        "subject": "Mathematics",
+        "stars": 5
+    },
+    {
+        "professor": "Prof. Johnson",
+        "review": "Tough grader but very knowledgeable.",
+        "subject": "Physics",
+        "stars": 4
+    },
+    {
+        "professor": "Dr. Williams",
+        "review": "Engaging lectures, always available for office hours.",
+        "subject": "Chemistry",
+        "stars": 5
+    },
+    {
+        "professor": "Prof. Brown",
+        "review": "Assignments are challenging but fair.",
+        "subject": "Computer Science",
+        "stars": 4
+    },
+    {
+        "professor": "Dr. Davis",
+        "review": "Monotone voice, hard to stay focused in class.",
+        "subject": "History",
+        "stars": 2
+    },
+    {
+        "professor": "Prof. Miller",
+        "review": "Passionate about the subject, inspires students.",
+        "subject": "Literature",
+        "stars": 5
+    },
+    {
+        "professor": "Dr. Wilson",
+        "review": "Too much homework, but material is interesting.",
+        "subject": "Biology",
+        "stars": 3
+    },
+    {
+        "professor": "Prof. Moore",
+        "review": "Unclear expectations for exams.",
+        "subject": "Psychology",
+        "stars": 2
+    },
+    {
+        "professor": "Dr. Taylor",
+        "review": "Brilliant researcher, but struggles to teach basics.",
+        "subject": "Economics",
+        "stars": 3
+    },
+    {
+        "professor": "Prof. Anderson",
+        "review": "Makes statistics fun and approachable.",
+        "subject": "Statistics",
+        "stars": 5
+    },
+    {
+        "professor": "Dr. Thomas",
+        "review": "Outdated teaching methods, needs to modernize.",
+        "subject": "Sociology",
+        "stars": 2
+    },
+    {
+        "professor": "Prof. Jackson",
+        "review": "Extremely helpful during office hours.",
+        "subject": "Political Science",
+        "stars": 4
+    },
+    {
+        "professor": "Dr. White",
+        "review": "Tough but fair, prepares students well for the field.",
+        "subject": "Engineering",
+        "stars": 4
+    },
+    {
+        "professor": "Prof. Harris",
+        "review": "Lectures are disorganized and hard to follow.",
+        "subject": "Philosophy",
+        "stars": 2
+    },
+    {
+        "professor": "Dr. Martin",
+        "review": "Brings real-world experience to the classroom.",
+        "subject": "Business",
+        "stars": 5
+    },
+    {
+        "professor": "Prof. Thompson",
+        "review": "Assignments feel irrelevant to course material.",
+        "subject": "Art History",
+        "stars": 3
+    },
+    {
+        "professor": "Dr. Garcia",
+        "review": "Enthusiastic and makes learning a foreign language fun.",
+        "subject": "Spanish",
+        "stars": 5
+    },
+    {
+        "professor": "Prof. Martinez",
+        "review": "Strict attendance policy, but lectures are worth it.",
+        "subject": "Anthropology",
+        "stars": 4
+    },
+    {
+        "professor": "Dr. Robinson",
+        "review": "Brilliant mind, but expects too much from undergrads.",
+        "subject": "Physics",
+        "stars": 3
+    },
+    {
+        "professor": "Prof. Clark",
+        "review": "Always willing to help, creates a positive learning environment.",
+        "subject": "Education",
+        "stars": 5
+    }
+]
+}
